@@ -38,9 +38,7 @@ void Bucle(){
 				case '3':
 					participantes[2]--;
 					break;
-				case '4':
-					participantes[3]--;
-					break;
+				
 			}	
 			break;
 		case 'R':
